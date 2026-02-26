@@ -203,3 +203,7 @@ MIT — free to use, modify, and build on.
 ---
 
 *Built as part of a 3rd-year AI internship portfolio project.*
+
+## 👥 Contributors
+- [Abdelrahman Tahat](https://github.com/aboodtahat)
+- [Fares Alawneh](https://github.com/faresalawneh)
